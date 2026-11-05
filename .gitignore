@@ -1,0 +1,12 @@
+# Dépendances et fichiers générés
+node_modules
+/dist
+/dev-dist
+/coverage
+
+# Fichiers locaux
+.env
+.env.*
+*.local
+# Sauvegardes personnelles : jamais dans le dépôt
+budgetvision-sauvegarde-*.json
